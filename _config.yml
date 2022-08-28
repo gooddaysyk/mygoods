@@ -7,7 +7,6 @@ favicon: 'assets/images/logo.png'
 
 #baseurl: /mediumish-theme-jekyll
 baseurl: "/mygoods"
-url: "https://gooddaysyk.github.io"
 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
