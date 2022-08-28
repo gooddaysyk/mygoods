@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "행거도어 관련 상품 추천"
+author: gooday
+categories: [ 가구/인테리어 ]
+tags: [행거도어,행거도어 상세도, 행거도어 dwg, 행거도어 열관류율, 행거도어 부속, 행거도어 제작, 행거도어 부품 행거도어 규격, 행거도어 업체, 행거도어 평면도]
 image: assets/images/11.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
